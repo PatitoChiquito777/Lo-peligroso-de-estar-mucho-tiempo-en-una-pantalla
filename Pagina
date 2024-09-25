@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>¿Como dejar de ser tan adicto a las pantallas?</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>¿Porque es peligroso permanecer mucho tiempo en una pantalla?</h1>
+    <p>El permanecer mucho tiempo frente a una pantalla puede ser peligroso por varias razones, tanto para la salud física como mental. </p>
+    <h2>Consecuencias de permanecer mucho tiempo en una pantalla:</h2>
+             <ul>
+                   <li>-Fatiga visual digital</li>
+                   <li>-Síndrome de ojo seco</li>
+                   <li>-Dolor de cuello y espalda</li>
+                   <li>-Síndrome del túnel carpiano</li>
+                   <li>-Exposición a la luz azul</li>
+                   <li>-Insomnio</li>
+                   <li>-Otros.</li>
+             </ul>
+     <img src="C:/Users/Usuario/Downloads/Pepe/Imagen/descarga (10).jfif" alt="Image 1">
+</body>
+</html>
